@@ -1,4 +1,7 @@
 # Copyright 2017 Paul Baireuther. All Rights Reserved.
+####################################################
+# I added some complexity to the code initially written by Paul Baireuther to make the circuit 
+# measure the ZXXZ stabilizers
 
 import sqlite3
 import numpy as np
